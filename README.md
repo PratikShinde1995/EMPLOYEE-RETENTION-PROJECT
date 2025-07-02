@@ -1,4 +1,4 @@
-# HR-ANALYTICS-PROJECT
+# EMPLOYEE-RETENTION-PROJECT
 Objective: To build a dynamic Excel dashboard to uncover patterns behind employee attrition and support HR in driving data-backed retention strategies.
 
 Key Features:
